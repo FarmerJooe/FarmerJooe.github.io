@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FarmerJoe</title>
+  
+  
+  <link href="https://farmerjooe.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://farmerjooe.github.io/"/>
+  <updated>2022-01-12T01:26:17.607Z</updated>
+  <id>https://farmerjooe.github.io/</id>
+  
+  <author>
+    <name>FarmerJoe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://farmerjooe.github.io/2022/01/12/test/"/>
+    <id>https://farmerjooe.github.io/2022/01/12/test/</id>
+    <published>2022-01-12T01:15:41.000Z</published>
+    <updated>2022-01-12T01:26:17.607Z</updated>
+    
+    <content type="html"><![CDATA[<pre class="mermaid">graph TD;  A-->B;  A-->C;  B-->D;  C-->D;</pre><p><span class="math display">\[\begin{equation}\left\{\begin{array}{lr}x=\dfrac{3\pi}{2}(1+2t)\cos(\dfrac{3\pi}{2}(1+2t)), &amp; \\y=s, &amp; 0 \leq s \leq L,|t| \leq1. \\z=\dfrac{3\pi}{2}(1+2t)\sin(\dfrac{3\pi}{2}(1+2t)), &amp;  \end{array}\right.\end{equation}\]</span></p><p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor.</p><div class="archer-float-right"><p><img src="https://cdn.jsdelivr.net/gh/fi3ework/hexo-theme-archer/source/avatar/Misaka.jpg" alt="this is a float image!"></p></div><p>Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre class=&quot;mermaid&quot;&gt;graph TD;
+  A--&gt;B;
+  A--&gt;C;
+  B--&gt;D;
+  C--&gt;D;&lt;/pre&gt;
+&lt;p&gt;&lt;span class=&quot;math display&quot;&gt;\[\begin{equation}
+\left\{
+\be</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://farmerjooe.github.io/2022/01/11/hello-world/"/>
+    <id>https://farmerjooe.github.io/2022/01/11/hello-world/</id>
+    <published>2022-01-11T02:21:26.311Z</published>
+    <updated>2022-01-10T10:01:08.811Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
